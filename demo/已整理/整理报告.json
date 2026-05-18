@@ -1,0 +1,21 @@
+{
+  "timestamp": "2026-05-17T23:25:49.537394",
+  "source": "demo",
+  "output": "demo/已整理",
+  "stats": {
+    "total": 10,
+    "organized": 10,
+    "duplicates": 9,
+    "errors": 0
+  },
+  "categories": {
+    "其他": 1,
+    "文档": 0,
+    "视频": 0,
+    "图片": 0,
+    "音频": 0,
+    "可执行": 0,
+    "压缩包": 0,
+    "代码": 0
+  }
+}

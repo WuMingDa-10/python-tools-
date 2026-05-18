@@ -1,0 +1,13 @@
+{
+  "ethereum": {
+    "private_key": "d20c50c44fd04b590980054cc291903d905b6b997dd46055dac2b97772e06502",
+    "address": "0x3c2dd561c2cd50d7f7a387d081d34f26045a0fc8",
+    "created": "2026-05-17T23:43:57.983381"
+  },
+  "bitcoin": {
+    "private_key": "55f0dce2fed656b64182aeb2b6361d5f1205a866889e2a321f8475e59e8aa42c",
+    "address": "1b8f3d3becf924916a97971067d275b55d",
+    "created": "2026-05-17T23:43:57.983404"
+  },
+  "created": "2026-05-17T23:43:57.983409"
+}
